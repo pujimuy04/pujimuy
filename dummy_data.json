@@ -1,0 +1,6 @@
+[
+  { "userid": "user1", "description": "Completar tarea 1", "completed": false },
+  { "userid": "user2", "description": "Revisar correo electrónico", "completed": true },
+  { "userid": "user1", "description": "Terminar informe", "completed": false },
+  { "userid": "user3", "description": "Preparar presentación", "completed": true }
+]
